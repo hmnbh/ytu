@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "users",
+  "custom-object": {
+    "custom-line": "name",
+    "custom-text": "pass"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "namer1"
+    },
+    {
+      "custom-list-item": "namer2"
+    }
+  ]
+}
